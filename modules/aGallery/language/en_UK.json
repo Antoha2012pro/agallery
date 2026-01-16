@@ -1,0 +1,81 @@
+{
+  "agallery": {
+    "nav_gallery": "Gallery",
+    "gallery_title": "Gallery",
+    "upload_button": "Upload",
+    "send_review": "Submit for review",
+
+    "perm_upload": "Upload to gallery",
+    "perm_moderate": "Moderate gallery submissions",
+    "perm_manage": "Manage gallery settings/categories/images",
+
+    "field_category": "Category",
+    "field_title": "Title",
+    "field_description": "Description",
+    "field_file": "Image file",
+
+    "upload_submitted": "Your image has been submitted for review.",
+    "err_csrf": "Invalid CSRF token.",
+    "err_no_permission": "You do not have permission to upload.",
+    "err_category": "Invalid category.",
+    "err_category_upload": "You cannot upload to this category.",
+    "err_title": "Invalid title.",
+    "err_description": "Description is too long.",
+    "err_file_missing": "No file selected.",
+    "err_file_upload": "Upload failed.",
+    "err_file_too_large": "File is too large (max {max} MB).",
+    "err_invalid_image": "File is not a valid image.",
+    "err_unsupported_type": "Unsupported image format.",
+    "err_save_failed": "Failed to save the image.",
+    "err_not_found": "Item not found.",
+    "err_reason_required": "Decline reason is required.",
+
+    "alert_new_title": "New gallery submission",
+    "alert_new_content": "A new image submission #{id} is awaiting moderation.",
+    "alert_approved_title": "Gallery submission approved",
+    "alert_approved_content": "Your image submission #{id} has been approved.",
+    "alert_declined_title": "Gallery submission declined",
+    "alert_declined_content": "Your image submission #{id} was declined. Reason: {reason}",
+
+    "staffcp_categories": "Categories",
+    "staffcp_moderation": "Moderation",
+    "staffcp_images": "Images",
+    "staffcp_settings": "Settings",
+
+    "cat_add": "Add category",
+    "cat_edit": "Edit",
+    "cat_delete": "Delete",
+    "cat_name": "Name",
+    "cat_description": "Description",
+    "cat_sort": "Sort order",
+    "cat_view_groups": "View groups",
+    "cat_upload_groups": "Upload groups",
+    "cat_saved": "Category saved.",
+    "cat_deleted": "Category deleted.",
+
+    "status_pending": "Pending",
+    "status_approved": "Approved",
+    "status_declined": "Declined",
+    "approve": "Approve",
+    "decline": "Decline",
+    "decline_reason": "Decline reason",
+    "moderation_saved": "Moderation action saved.",
+
+    "images_saved": "Image updated.",
+    "images_deleted": "Image deleted.",
+
+    "settings_saved": "Settings saved.",
+    "set_max_upload_mb": "Max upload size (MB)",
+    "set_max_width": "Max width",
+    "set_max_height": "Max height",
+    "set_allowed_extensions": "Allowed extensions",
+    "set_jpeg_quality": "JPEG quality",
+    "set_webp_quality": "WebP quality",
+    "set_thumb_width": "Thumbnail width",
+    "set_convert_to_jpg": "Convert to JPG (if enabled)",
+    "set_convert_to_webp": "Convert to WebP (if enabled)",
+
+    "save": "Save",
+    "confirm": "Are you sure?"
+  }
+}

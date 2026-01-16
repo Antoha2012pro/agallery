@@ -1,0 +1,81 @@
+{
+  "agallery": {
+    "nav_gallery": "Галлерея",
+    "gallery_title": "Галлерея",
+    "upload_button": "Загрузить",
+    "send_review": "Отправить на рассмотрение",
+
+    "perm_upload": "Загрузка в галерею",
+    "perm_moderate": "Модерация заявок галереи",
+    "perm_manage": "Управление настройками/категориями/изображениями галереи",
+
+    "field_category": "Категория",
+    "field_title": "Название",
+    "field_description": "Описание",
+    "field_file": "Файл изображения",
+
+    "upload_submitted": "Изображение отправлено на рассмотрение.",
+    "err_csrf": "Неверный CSRF токен.",
+    "err_no_permission": "Нет прав на загрузку.",
+    "err_category": "Неверная категория.",
+    "err_category_upload": "Нельзя загружать в эту категорию.",
+    "err_title": "Неверное название.",
+    "err_description": "Описание слишком длинное.",
+    "err_file_missing": "Файл не выбран.",
+    "err_file_upload": "Ошибка загрузки файла.",
+    "err_file_too_large": "Файл слишком большой (макс. {max} MB).",
+    "err_invalid_image": "Файл не является корректным изображением.",
+    "err_unsupported_type": "Неподдерживаемый формат изображения.",
+    "err_save_failed": "Не удалось сохранить изображение.",
+    "err_not_found": "Элемент не найден.",
+    "err_reason_required": "Причина отказа обязательна.",
+
+    "alert_new_title": "Новая заявка в галерею",
+    "alert_new_content": "Новая заявка #{id} ожидает модерации.",
+    "alert_approved_title": "Заявка принята",
+    "alert_approved_content": "Ваша заявка #{id} принята.",
+    "alert_declined_title": "Заявка отклонена",
+    "alert_declined_content": "Ваша заявка #{id} отклонена. Причина: {reason}",
+
+    "staffcp_categories": "Категории",
+    "staffcp_moderation": "Модерация",
+    "staffcp_images": "Изображения",
+    "staffcp_settings": "Настройки",
+
+    "cat_add": "Добавить категорию",
+    "cat_edit": "Редактировать",
+    "cat_delete": "Удалить",
+    "cat_name": "Название",
+    "cat_description": "Описание",
+    "cat_sort": "Сортировка",
+    "cat_view_groups": "Группы просмотра",
+    "cat_upload_groups": "Группы загрузки",
+    "cat_saved": "Категория сохранена.",
+    "cat_deleted": "Категория удалена.",
+
+    "status_pending": "Ожидает",
+    "status_approved": "Одобрено",
+    "status_declined": "Отклонено",
+    "approve": "Одобрить",
+    "decline": "Отклонить",
+    "decline_reason": "Причина отказа",
+    "moderation_saved": "Решение сохранено.",
+
+    "images_saved": "Изображение обновлено.",
+    "images_deleted": "Изображение удалено.",
+
+    "settings_saved": "Настройки сохранены.",
+    "set_max_upload_mb": "Максимальный размер (MB)",
+    "set_max_width": "Макс. ширина",
+    "set_max_height": "Макс. высота",
+    "set_allowed_extensions": "Разрешённые расширения",
+    "set_jpeg_quality": "Качество JPEG",
+    "set_webp_quality": "Качество WebP",
+    "set_thumb_width": "Ширина миниатюры",
+    "set_convert_to_jpg": "Конвертировать в JPG (если включено)",
+    "set_convert_to_webp": "Конвертировать в WebP (если включено)",
+
+    "save": "Сохранить",
+    "confirm": "Вы уверены?"
+  }
+}

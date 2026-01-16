@@ -1,0 +1,81 @@
+{
+  "agallery": {
+    "nav_gallery": "Galerie",
+    "gallery_title": "Galerie",
+    "upload_button": "Hochladen",
+    "send_review": "Zur Prüfung senden",
+
+    "perm_upload": "In die Galerie hochladen",
+    "perm_moderate": "Galerie-Einsendungen moderieren",
+    "perm_manage": "Galerie verwalten (Einstellungen/Kategorien/Bilder)",
+
+    "field_category": "Kategorie",
+    "field_title": "Titel",
+    "field_description": "Beschreibung",
+    "field_file": "Bilddatei",
+
+    "upload_submitted": "Dein Bild wurde zur Prüfung eingereicht.",
+    "err_csrf": "Ungültiges CSRF-Token.",
+    "err_no_permission": "Keine Berechtigung zum Hochladen.",
+    "err_category": "Ungültige Kategorie.",
+    "err_category_upload": "Du kannst in diese Kategorie nicht hochladen.",
+    "err_title": "Ungültiger Titel.",
+    "err_description": "Beschreibung ist zu lang.",
+    "err_file_missing": "Keine Datei ausgewählt.",
+    "err_file_upload": "Upload fehlgeschlagen.",
+    "err_file_too_large": "Datei ist zu groß (max. {max} MB).",
+    "err_invalid_image": "Datei ist kein gültiges Bild.",
+    "err_unsupported_type": "Nicht unterstütztes Bildformat.",
+    "err_save_failed": "Speichern des Bildes fehlgeschlagen.",
+    "err_not_found": "Element nicht gefunden.",
+    "err_reason_required": "Ablehnungsgrund ist erforderlich.",
+
+    "alert_new_title": "Neue Galerie-Einsendung",
+    "alert_new_content": "Neue Einsendung #{id} wartet auf Moderation.",
+    "alert_approved_title": "Galerie-Einsendung angenommen",
+    "alert_approved_content": "Deine Einsendung #{id} wurde angenommen.",
+    "alert_declined_title": "Galerie-Einsendung abgelehnt",
+    "alert_declined_content": "Deine Einsendung #{id} wurde abgelehnt. Grund: {reason}",
+
+    "staffcp_categories": "Kategorien",
+    "staffcp_moderation": "Moderation",
+    "staffcp_images": "Bilder",
+    "staffcp_settings": "Einstellungen",
+
+    "cat_add": "Kategorie hinzufügen",
+    "cat_edit": "Bearbeiten",
+    "cat_delete": "Löschen",
+    "cat_name": "Name",
+    "cat_description": "Beschreibung",
+    "cat_sort": "Sortierung",
+    "cat_view_groups": "Ansichtsgruppen",
+    "cat_upload_groups": "Upload-Gruppen",
+    "cat_saved": "Kategorie gespeichert.",
+    "cat_deleted": "Kategorie gelöscht.",
+
+    "status_pending": "Ausstehend",
+    "status_approved": "Angenommen",
+    "status_declined": "Abgelehnt",
+    "approve": "Annehmen",
+    "decline": "Ablehnen",
+    "decline_reason": "Ablehnungsgrund",
+    "moderation_saved": "Aktion gespeichert.",
+
+    "images_saved": "Bild aktualisiert.",
+    "images_deleted": "Bild gelöscht.",
+
+    "settings_saved": "Einstellungen gespeichert.",
+    "set_max_upload_mb": "Max. Upload (MB)",
+    "set_max_width": "Max. Breite",
+    "set_max_height": "Max. Höhe",
+    "set_allowed_extensions": "Erlaubte Endungen",
+    "set_jpeg_quality": "JPEG-Qualität",
+    "set_webp_quality": "WebP-Qualität",
+    "set_thumb_width": "Thumbnail-Breite",
+    "set_convert_to_jpg": "In JPG konvertieren (wenn aktiv)",
+    "set_convert_to_webp": "In WebP konvertieren (wenn aktiv)",
+
+    "save": "Speichern",
+    "confirm": "Bist du sicher?"
+  }
+}

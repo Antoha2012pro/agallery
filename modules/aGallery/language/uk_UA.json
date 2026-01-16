@@ -1,0 +1,81 @@
+{
+  "agallery": {
+    "nav_gallery": "Галерея",
+    "gallery_title": "Галерея",
+    "upload_button": "Завантажити",
+    "send_review": "Відправити на розгляд",
+
+    "perm_upload": "Завантаження в галерею",
+    "perm_moderate": "Модерація заявок галереї",
+    "perm_manage": "Керування налаштуваннями/категоріями/зображеннями галереї",
+
+    "field_category": "Категорія",
+    "field_title": "Назва",
+    "field_description": "Опис",
+    "field_file": "Файл зображення",
+
+    "upload_submitted": "Зображення відправлено на розгляд.",
+    "err_csrf": "Невірний CSRF токен.",
+    "err_no_permission": "Немає прав на завантаження.",
+    "err_category": "Невірна категорія.",
+    "err_category_upload": "Не можна завантажувати в цю категорію.",
+    "err_title": "Некоректна назва.",
+    "err_description": "Опис занадто довгий.",
+    "err_file_missing": "Файл не вибрано.",
+    "err_file_upload": "Помилка завантаження файлу.",
+    "err_file_too_large": "Файл занадто великий (макс. {max} MB).",
+    "err_invalid_image": "Файл не є коректним зображенням.",
+    "err_unsupported_type": "Непідтримуваний формат зображення.",
+    "err_save_failed": "Не вдалося зберегти зображення.",
+    "err_not_found": "Елемент не знайдено.",
+    "err_reason_required": "Причина відхилення обов’язкова.",
+
+    "alert_new_title": "Нова заявка в галерею",
+    "alert_new_content": "Нова заявка #{id} очікує модерації.",
+    "alert_approved_title": "Заявку схвалено",
+    "alert_approved_content": "Вашу заявку #{id} схвалено.",
+    "alert_declined_title": "Заявку відхилено",
+    "alert_declined_content": "Вашу заявку #{id} відхилено. Причина: {reason}",
+
+    "staffcp_categories": "Категорії",
+    "staffcp_moderation": "Модерація",
+    "staffcp_images": "Зображення",
+    "staffcp_settings": "Налаштування",
+
+    "cat_add": "Додати категорію",
+    "cat_edit": "Редагувати",
+    "cat_delete": "Видалити",
+    "cat_name": "Назва",
+    "cat_description": "Опис",
+    "cat_sort": "Сортування",
+    "cat_view_groups": "Групи перегляду",
+    "cat_upload_groups": "Групи завантаження",
+    "cat_saved": "Категорію збережено.",
+    "cat_deleted": "Категорію видалено.",
+
+    "status_pending": "Очікує",
+    "status_approved": "Схвалено",
+    "status_declined": "Відхилено",
+    "approve": "Схвалити",
+    "decline": "Відхилити",
+    "decline_reason": "Причина відхилення",
+    "moderation_saved": "Рішення збережено.",
+
+    "images_saved": "Зображення оновлено.",
+    "images_deleted": "Зображення видалено.",
+
+    "settings_saved": "Налаштування збережено.",
+    "set_max_upload_mb": "Макс. розмір (MB)",
+    "set_max_width": "Макс. ширина",
+    "set_max_height": "Макс. висота",
+    "set_allowed_extensions": "Дозволені розширення",
+    "set_jpeg_quality": "Якість JPEG",
+    "set_webp_quality": "Якість WebP",
+    "set_thumb_width": "Ширина мініатюри",
+    "set_convert_to_jpg": "Конвертувати в JPG (якщо увімкнено)",
+    "set_convert_to_webp": "Конвертувати в WebP (якщо увімкнено)",
+
+    "save": "Зберегти",
+    "confirm": "Ви впевнені?"
+  }
+}
