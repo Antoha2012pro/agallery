@@ -1,0 +1,29 @@
+{
+  "agallery": {
+    "module_name": "aGallery!",
+    "nav_gallery": "Галлерея",
+    "page_title": "Галлерея",
+    "button_upload": "Загрузить",
+    "upload_submitted": "Ваше изображение отправлено на рассмотрение.",
+    "notif_new_upload_title": "Новая загрузка в галерею",
+    "notif_new_upload_content": "Новое изображение отправлено и ожидает модерации.",
+    "alert_approved_title": "Загрузка в галерею одобрена",
+    "alert_approved_content": "Ваша загрузка в галерею была одобрена.",
+    "alert_declined_title": "Загрузка в галерею отклонена",
+    "alert_declined_content": "Ваша загрузка в галерею была отклонена. Причина:",
+    "perm_upload": "Загружать в галерею",
+    "perm_moderate": "Модерировать загрузки галереи",
+    "perm_manage": "Управлять галереей (категории, изображения, настройки)",
+    "panel_categories_title": "aGallery - Категории",
+    "panel_moderation_title": "aGallery - Модерация",
+    "panel_images_title": "aGallery - Изображения",
+    "panel_settings_title": "aGallery - Настройки",
+    "category_created": "Категория создана.",
+    "category_updated": "Категория обновлена.",
+    "category_deleted": "Категория удалена.",
+    "decline_reason_required": "Необходимо указать причину отклонения.",
+    "image_updated": "Изображение обновлено.",
+    "image_deleted": "Изображение удалено.",
+    "settings_saved": "Настройки сохранены."
+  }
+}

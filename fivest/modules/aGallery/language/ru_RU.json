@@ -1,0 +1,16 @@
+{
+    "gallery": "Галерея",
+    "upload": "Загрузить",
+    "moderation": "Модерация",
+    "categories": "Категории",
+    "settings": "Настройки",
+    "images": "Изображения",
+    "pending_requests": "Заявки на проверку",
+    "approve": "Одобрить",
+    "decline": "Отклонить",
+    "decline_reason": "Причина отклонения",
+    "upload_success": "Изображение отправлено на модерацию!",
+    "health_check": "Проверка системы",
+    "not_writable": "Папка не доступна для записи: ",
+    "php_limit_warning": "Лимит PHP ниже настройки модуля."
+}

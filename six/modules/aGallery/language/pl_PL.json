@@ -1,0 +1,29 @@
+{
+  "agallery": {
+    "module_name": "aGallery!",
+    "nav_gallery": "Galeria",
+    "page_title": "Galeria",
+    "button_upload": "Wyślij",
+    "upload_submitted": "Twój obraz został wysłany do moderacji.",
+    "notif_new_upload_title": "Nowy upload do galerii",
+    "notif_new_upload_content": "Nowy obraz został wysłany i oczekuje na moderację.",
+    "alert_approved_title": "Upload do galerii zatwierdzony",
+    "alert_approved_content": "Twój upload do galerii został zatwierdzony.",
+    "alert_declined_title": "Upload do galerii odrzucony",
+    "alert_declined_content": "Twój upload do galerii został odrzucony. Powód:",
+    "perm_upload": "Wysyłanie do galerii",
+    "perm_moderate": "Moderacja uploadów galerii",
+    "perm_manage": "Zarządzanie galerią (kategorie, obrazy, ustawienia)",
+    "panel_categories_title": "aGallery - Kategorie",
+    "panel_moderation_title": "aGallery - Moderacja",
+    "panel_images_title": "aGallery - Obrazy",
+    "panel_settings_title": "aGallery - Ustawienia",
+    "category_created": "Kategoria utworzona.",
+    "category_updated": "Kategoria zaktualizowana.",
+    "category_deleted": "Kategoria usunięta.",
+    "decline_reason_required": "Wymagane jest podanie powodu odrzucenia.",
+    "image_updated": "Obraz zaktualizowany.",
+    "image_deleted": "Obraz usunięty.",
+    "settings_saved": "Ustawienia zapisane."
+  }
+}

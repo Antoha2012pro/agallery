@@ -1,0 +1,29 @@
+{
+  "agallery": {
+    "module_name": "aGallery!",
+    "nav_gallery": "Galerie",
+    "page_title": "Galerie",
+    "button_upload": "Hochladen",
+    "upload_submitted": "Dein Bild wurde zur Prüfung eingereicht.",
+    "notif_new_upload_title": "Neuer Galerie-Upload",
+    "notif_new_upload_content": "Ein neues Bild wurde eingereicht und wartet auf Moderation.",
+    "alert_approved_title": "Galerie-Upload genehmigt",
+    "alert_approved_content": "Dein Galerie-Upload wurde genehmigt.",
+    "alert_declined_title": "Galerie-Upload abgelehnt",
+    "alert_declined_content": "Dein Galerie-Upload wurde abgelehnt. Grund:",
+    "perm_upload": "In Galerie hochladen",
+    "perm_moderate": "Galerie-Uploads moderieren",
+    "perm_manage": "Galerie verwalten (Kategorien, Bilder, Einstellungen)",
+    "panel_categories_title": "aGallery - Kategorien",
+    "panel_moderation_title": "aGallery - Moderation",
+    "panel_images_title": "aGallery - Bilder",
+    "panel_settings_title": "aGallery - Einstellungen",
+    "category_created": "Kategorie erstellt.",
+    "category_updated": "Kategorie aktualisiert.",
+    "category_deleted": "Kategorie gelöscht.",
+    "decline_reason_required": "Ein Ablehnungsgrund ist erforderlich.",
+    "image_updated": "Bild aktualisiert.",
+    "image_deleted": "Bild gelöscht.",
+    "settings_saved": "Einstellungen gespeichert."
+  }
+}

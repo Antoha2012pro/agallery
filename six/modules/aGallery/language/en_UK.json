@@ -1,0 +1,29 @@
+{
+  "agallery": {
+    "module_name": "aGallery!",
+    "nav_gallery": "Gallery",
+    "page_title": "Gallery",
+    "button_upload": "Upload",
+    "upload_submitted": "Your image was submitted for review.",
+    "notif_new_upload_title": "New gallery upload",
+    "notif_new_upload_content": "A new image was submitted and is pending moderation.",
+    "alert_approved_title": "Gallery upload approved",
+    "alert_approved_content": "Your gallery upload has been approved.",
+    "alert_declined_title": "Gallery upload declined",
+    "alert_declined_content": "Your gallery upload has been declined. Reason:",
+    "perm_upload": "Upload to gallery",
+    "perm_moderate": "Moderate gallery uploads",
+    "perm_manage": "Manage gallery (categories, images, settings)",
+    "panel_categories_title": "aGallery - Categories",
+    "panel_moderation_title": "aGallery - Moderation",
+    "panel_images_title": "aGallery - Images",
+    "panel_settings_title": "aGallery - Settings",
+    "category_created": "Category created.",
+    "category_updated": "Category updated.",
+    "category_deleted": "Category deleted.",
+    "decline_reason_required": "Decline reason is required.",
+    "image_updated": "Image updated.",
+    "image_deleted": "Image deleted.",
+    "settings_saved": "Settings saved."
+  }
+}

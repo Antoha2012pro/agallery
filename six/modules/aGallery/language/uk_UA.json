@@ -1,0 +1,29 @@
+{
+  "agallery": {
+    "module_name": "aGallery!",
+    "nav_gallery": "Галерея",
+    "page_title": "Галерея",
+    "button_upload": "Завантажити",
+    "upload_submitted": "Ваше зображення надіслано на розгляд.",
+    "notif_new_upload_title": "Нове завантаження в галерею",
+    "notif_new_upload_content": "Нове зображення надіслано та очікує модерації.",
+    "alert_approved_title": "Завантаження в галерею схвалено",
+    "alert_approved_content": "Ваше завантаження в галерею було схвалено.",
+    "alert_declined_title": "Завантаження в галерею відхилено",
+    "alert_declined_content": "Ваше завантаження в галерею було відхилено. Причина:",
+    "perm_upload": "Завантажувати до галереї",
+    "perm_moderate": "Модерувати завантаження галереї",
+    "perm_manage": "Керувати галереєю (категорії, зображення, налаштування)",
+    "panel_categories_title": "aGallery - Категорії",
+    "panel_moderation_title": "aGallery - Модерація",
+    "panel_images_title": "aGallery - Зображення",
+    "panel_settings_title": "aGallery - Налаштування",
+    "category_created": "Категорію створено.",
+    "category_updated": "Категорію оновлено.",
+    "category_deleted": "Категорію видалено.",
+    "decline_reason_required": "Потрібно вказати причину відхилення.",
+    "image_updated": "Зображення оновлено.",
+    "image_deleted": "Зображення видалено.",
+    "settings_saved": "Налаштування збережено."
+  }
+}
